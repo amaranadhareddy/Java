@@ -1,7 +1,7 @@
 package com.sapient.service;
 
 import java.util.ResourceBundle;
-
+//these type of classes are called factory classes
 public class EmpUtil {
 	private static ResourceBundle rb;
 	private static Idao dao; 
